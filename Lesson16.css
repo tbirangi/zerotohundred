@@ -16,3 +16,158 @@ td {
         text-align:center;
         border:2px solid #E6E6E6;
 }
+
+
+.topTable {
+	height:400px;
+	font-family:verdana;
+	width:30%;
+	border-collapse:collapse;	
+}
+
+.bottomTable {
+	height:500px;
+	font-family:verdana;
+	width:40%;
+	border-collapse:collapse;
+}
+
+#x2Id {
+	color:red;
+}
+
+#xyId {
+	color:blue;
+}
+
+#sinId {
+	color:darkblue;
+}
+
+#cosId {
+	color:red;
+}
+
+#tanId {
+	color:green;
+}
+
+#radId {
+	color:brown;
+}
+
+#10xId {
+	color:burlywood;
+}
+
+#logId {
+	color:chocolate;
+}
+
+#expId {
+	color:coral;
+}
+
+#modId {
+	color:cyan;
+}
+
+#uarrId {
+	color:darkgray
+}
+	
+#ceId {
+	color:darkkhaki;
+}
+	
+#cId {
+	color:darkmagneta;
+}
+
+#larrId {
+	color:darksalmon;
+}
+	
+#divideId {
+	color:black;
+}
+
+#piId {
+	color:gray;
+}
+
+#sevenId {
+	color:green;
+}
+
+#eightId {
+	color:indianred;
+}
+
+#nineId {
+	color:lawngreen;
+}
+
+#timesId {
+	color:magneta;
+}
+
+#factId {
+	color:lime;
+}
+
+#fourId {
+	color:maroon;
+}
+
+#fiveId {
+	color:aqua;
+}
+
+#sixId {
+	color:orange;
+}
+
+#minusId {
+	color:orchid;
+}
+
+#plusId {
+	color:blue;
+}
+
+#oneId {
+	color:plum;
+}
+
+#twoId {
+	color:silver;
+}
+
+#threeId {
+	color:skyblue;
+}
+
+#plusminusId {
+	color:blue;
+}
+
+#paranopenId {
+	color:teal;
+}
+
+#parancloseId {
+	color:violet;
+}
+
+#zeroId {
+	color:tomato;
+}
+
+#middotId {
+	color:royalblue;
+}
+
+#equalId {
+	color:purple;
+}
