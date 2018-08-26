@@ -1,0 +1,450 @@
+body {
+    background-color: "B7472A";
+}
+#title
+{
+   position:fixed;
+   top:50px;
+   left:210px
+}
+
+#x2pos
+{
+   position: absolute;
+   top: 100px;
+   left: 100px;
+}
+#xypos
+{
+   position: absolute;
+   top: 100px;
+   left: 160px;
+}
+#sinpos
+{
+   position: absolute;
+   top: 100px;
+   left: 220px;
+}
+#cospos
+{
+   position: absolute;
+   top: 100px;
+   left: 280px;
+}
+#tanpos
+{
+   position: absolute;
+   top: 100px;
+   left: 340px;
+}
+#radpos
+{
+   position: absolute;
+   top: 160px;
+   left: 100px;
+}
+#x10pos
+{
+   position: absolute;
+   top: 160px;
+   left: 160px;
+}
+#logpos
+{
+   position: absolute;
+   top: 160px;
+   left: 220px;
+}
+#exppos
+{
+   position: absolute;
+   top: 160px;
+   left: 280px;
+}
+#modpos
+{
+   position: absolute;
+   top: 160px;
+   left: 340px;	
+}
+#uarrpos
+{
+   position: absolute;
+   top: 220px;
+   left: 100px;	
+}
+#cepos
+{
+   position: absolute;
+   top: 220px;
+   left: 160px;	
+}
+#cpos
+{
+   position: absolute;
+   top: 220px;
+   left: 220px;	
+}
+#larrpos
+{
+   position: absolute;
+   top: 220px;
+   left: 280px;		
+}
+#divpos
+{
+   position: absolute;
+   top: 220px;
+   left: 340px;		
+}
+#pipos
+{
+   position: absolute;
+   top: 280px;
+   left: 100px;		
+}
+#sevenpos
+{
+   position: absolute;
+   top: 280px;
+   left: 160px;		
+}
+#eightpos
+{
+   position: absolute;
+   top: 280px;
+   left: 220px;		
+}
+#ninepos
+{
+   position: absolute;
+   top: 280px;
+   left: 280px;			
+}
+#timespos
+{
+   position: absolute;
+   top: 280px;
+   left: 340px;			
+}
+#factpos
+{
+   position: absolute;
+   top: 340px;
+   left: 100px;			
+}
+#fourpos
+{
+   position: absolute;
+   top: 340px;
+   left: 160px;			
+}
+#fivepos
+{
+   position: absolute;
+   top: 340px;
+   left: 220px;			
+}
+#sixpos
+{
+   position: absolute;
+   top: 340px;
+   left: 280px;			
+}
+#minuspos
+{
+   position: absolute;
+   top: 340px;
+   left: 340px;			
+}
+#plusminuspos
+{
+   position: absolute;
+   top: 400px;
+   left: 100px;				
+}
+#onepos
+{
+   position: absolute;
+   top: 400px;
+   left: 160px;				
+}
+#twopos
+{
+   position: absolute;
+   top: 400px;
+   left: 220px;				
+}
+#threepos
+{
+   position: absolute;
+   top: 400px;
+   left: 280px;				
+}
+#pluspos
+{
+   position: absolute;
+   top: 400px;
+   left: 340px;				
+}
+#paraopenpos
+{
+   position: absolute;
+   top: 460px;
+   left: 100px;				
+}
+#paraclosepos
+{
+   position: absolute;
+   top: 460px;
+   left: 160px;				
+}
+#zeropos
+{
+   position: absolute;
+   top: 460px;
+   left: 220px;				
+}
+#midpos
+{
+   position: absolute;
+   top: 460px;
+   left: 280px;				
+}
+#equalpos
+{
+   position: absolute;
+   top: 460px;
+   left: 340px;				
+}
+
+</body>
+</html>
+
+
+
+.xbox {
+	padding-top:10px;
+	padding-left:10px;
+	padding-right:10px;
+	padding-bottom:10px;
+	margin-top:10px;
+	margin-bottom:10px;
+	margin-left:10px;
+	margin-right:10px;
+	border: 1px black solid;
+}
+
+
+
+#x2Id {
+	color:red;
+	width:40px;
+	height:40px;
+}
+
+#xyId {
+	color:blue;
+	width:40px;
+	height:40px;
+}
+
+#sinId {
+	color:darkblue;
+	width:40px;
+	height:40px;
+	height:40px;
+}
+
+#cosId {
+	color:red;
+	width:40px;
+	height:40px;
+}
+
+#tanId {
+	color:green;
+	width:40px;
+	height:40px;
+}
+
+#radId {
+	color:brown;
+	width:40px;
+	height:40px;
+}
+
+#x10Id {
+	color:burlywood;
+	width:40px;
+	height:40px;
+}
+
+#logId {
+	color:chocolate;
+	width:40px;
+	height:40px;
+}
+
+#expId {
+	color:coral;
+	width:40px;
+	height:40px;
+}
+
+#modId {
+	color:cyan;
+	width:40px;
+	height:40px;
+}
+
+#uarrId {
+	color:darkgray;
+	width:40px;
+	height:40px;
+}
+	
+#ceId {
+	color:darkkhaki;
+	width:40px;
+	height:40px;
+}
+	
+#cId {
+	color:darkmagneta;
+	width:40px;
+	height:40px;
+}
+
+#larrId {
+	color:darksalmon;
+	width:40px;
+	height:40px;
+}
+	
+#divideId {
+	color:black;
+	width:40px;
+	height:40px;
+}
+
+#piId {
+	color:gray;
+	width:40px;
+	height:40px;
+}
+
+#sevenId {
+	color:green;
+	width:40px;
+	height:40px;
+}
+
+#eightId {
+	color:indianred;
+	width:40px;
+	height:40px;
+}
+
+#nineId {
+	color:lawngreen;
+	width:40px;
+	height:40px;
+}
+
+#timesId {
+	color:magneta;
+	width:40px;
+	height:40px;
+}
+
+#factId {
+	color:lime;
+	width:40px;
+	height:40px;
+}
+
+#fourId {
+	color:maroon;
+	width:40px;
+	height:40px;
+}
+
+#fiveId {
+	color:aqua;
+	width:40px;
+	height:40px;
+}
+
+#sixId {
+	color:orange;
+	width:40px;
+	height:40px;
+}
+
+#minusId {
+	color:orchid;
+	width:40px;
+	height:40px;
+}
+
+#plusId {
+	color:blue;
+	width:40px;
+	height:40px;
+}
+
+#oneId {
+	color:plum;
+	width:40px;
+	height:40px;
+}
+
+#twoId {
+	color:silver;
+	width:40px;
+	height:40px;
+}
+
+#threeId {
+	color:skyblue;
+	width:40px;
+	height:40px;
+}
+
+#plusminusId {
+	color:blue;
+	width:40px;
+	height:40px;
+}
+
+#paranopenId {
+	color:teal;
+	width:40px;
+	height:40px;
+}
+
+#parancloseId {
+	color:violet;
+	width:40px;
+	height:40px;
+}
+
+#zeroId {
+	color:tomato;
+	width:40px;
+	height:40px;
+}
+
+#middotId {
+	color:royalblue;
+	width:40px;
+	height:40px;
+}
+
+#equalId {
+	color:purple;
+	width:40px;
+	height:40px;
+}
